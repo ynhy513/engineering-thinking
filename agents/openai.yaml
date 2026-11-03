@@ -1,0 +1,4 @@
+interface:
+  display_name: "工程认知与设计"
+  short_description: "在适用边界内理解系统机制、设计可靠方案，并通过行动与反馈修正认知"
+  default_prompt: "用 $engineering-thinking 分析这个对象或问题：先判断工程思维的适用范围，再按需要理解机制、诊断问题或设计方案。"
